@@ -1,4 +1,4 @@
-# Old projects I made in my ealy days
+# Old projects I made in my early days
 
 Really old code I like to look at to see how much I've improved since my early days as a programmer.
 
