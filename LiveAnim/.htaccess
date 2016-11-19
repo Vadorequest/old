@@ -1,0 +1,40 @@
+SetEnv PHP_VER 5
+SetEnv REGISTER_GLOBALS 0
+SetEnv MAGIC_QUOTES 0
+SetEnv error_reporting -1
+SetEnv SESSION_USE_TRANS_SID 0
+
+Options -Indexes
+
+######### MAINTENANCE #########
+
+ErrorDocument 403 /maintenance.php
+allow from 89.158.146.181
+allow from 79.80.96.47
+allow from 77.193.147.167
+allow from 86.77.36.26
+allow from 173.0.9.175
+allow from 77.198.249.50
+allow from 173.0.8.187
+allow from 173.0.5.186
+allow from 173.0.2.177
+allow from 173.0.2.161
+allow from 62.35.244.241
+allow from 89.86.14.62
+allow from 77.193.143.243
+allow from 77.206.83.161
+allow from 2.4.18.67
+allow from 77.198.245.115
+allow from 77.192.123.139
+allow from 86.77.36.21
+
+#deny from all
+
+<Files maintenance.php>
+allow from all
+</Files>
+
+ErrorDocument 404 /index.php
+<Files /404.php>
+allow from all
+</Files>

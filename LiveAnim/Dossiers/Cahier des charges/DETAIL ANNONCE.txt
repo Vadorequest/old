@@ -1,0 +1,34 @@
+
+
+Membre gratuit
+
+Titre de la prestation : 
+Type de soirée organisée : 
+Ville de la prestation : 
+Code postal de la prestation : 
+Distance : 
+Budget : 
+Nombre de convives : 
+Date de début de la prestation : 
+Heure de début de la prestation : 
+Date de fin de la prestation : 
+Heure de fin de la prestation : 
+Affichage de la carte gg map
+
+Vous n'avez pas d'abbonement, vous ne pouvez pas voir les coordonnées du client. Si vous souhaitez découvrir nos difféntes formules , merci de cliquer ici (redirection vers la page des pack)
+
+
+Membre SMALL
+
+Tout pareil. Sauf qu'en plus, il y aura son compteur sur 15, et si il clique sur "voir les info" son compteur déscendra de 1.
+
+MEMBRE MEDIUM 
+
+Tout pareil. Sauf qu'en plus, il y aura son compteur sur 40, et si il clique sur "voir les info" son compteur déscendra de 1.
+
+MEMBRE MAX
+
+Tout pareil, sauf que en plus, le membre verra directement les infos du client.
+
+
+--> Ne correspond pas à ce que j'ai demandé ... 5 octobre 2011 23h00.
